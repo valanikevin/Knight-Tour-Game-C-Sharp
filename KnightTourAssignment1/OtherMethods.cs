@@ -5,7 +5,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+/*******************************************
+ * Title: Game Supporting Method (Utility Methods) Implementation
+ * Page Documentation:
+ *      1) Purpose: Implement methods which are essential for entire program to function.
+ *      2) Algorithm: No Algorithm Used.
+ *****************************************/
 namespace KnightTourAssignment1
 {
 

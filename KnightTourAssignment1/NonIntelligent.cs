@@ -4,7 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+/*******************************************
+ * Title: Non-Intelligent Version Implementation
+ * Page Documentation:
+ *      1) Purpose: Simple algorithm to move knight if there is space available for movement.
+ *      2) Algorithm: First Come, First Serve technique.
+ *      3) Methods: 
+ *          3.1) gameNonIntel() -> Starts Game at user defined row and col.
+ *          3.2) fillTable() -> Will fill table with the default values of -1;
+ *****************************************/
 namespace KnightTourAssignment1
 {
     public partial class Form1 : Form
